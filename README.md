@@ -1,4 +1,4 @@
-## A project is a simple take to write netowrking scripts.
+## Python Netowrking scripts.
 
 #### Netwkring protocols this project will build servers and clinets for:
   - HTTP, TCP, UDP ,WebSockets, WSS, DNS, and MQTT.
