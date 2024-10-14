@@ -1,7 +1,5 @@
-## Python Netowrking scripts.
-
-#### Coding style: PEP 8 style guide.
-#### Netwkring protocols this project will build servers and clinets for:
+See [[.github/CONTRIBUTE]] file
+ #### Netwkring protocols this project will build servers and clinets for:
   - HTTP, TCP, UDP ,WebSockets, WSS, DNS, and MQTT.
   - info.py:  a simple information displayer for domains, IPv4 addresses and ports, it will the main inforamtion gathering script. 
   - server.py: will be a http server that serves content and deal with conneciton.
